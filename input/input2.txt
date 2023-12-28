@@ -1,0 +1,8 @@
+P
+6
+-S
+P OR R
+-Q OR R
+-U
+-R OR S OR T
+-T OR U
