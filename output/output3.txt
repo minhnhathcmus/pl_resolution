@@ -1,0 +1,28 @@
+5
+Q
+P OR -Q OR -R
+S
+-Q OR -S OR -T
+-T
+7
+-P OR -S OR -T
+-Q OR -R OR -T
+P OR -S
+P OR -Q
+P OR -R
+-S OR -T
+-Q OR -T
+6
+-P OR -R OR -T
+Q OR -S
+Q OR -R
+-R OR -T
+-Q OR -R OR -S OR -T
+-R OR -S OR -T
+2
+-P OR -R OR -S OR -T
+P OR -R OR -S
+1
+Q OR -R OR -S
+0
+NO
